@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 32px;
+  color: blueviolet;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: square inside;
+  margin-left: 20px;
+}
+ul li {
+  margin: 5px;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+}
